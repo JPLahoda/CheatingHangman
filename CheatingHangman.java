@@ -11,7 +11,6 @@ import java.util.HashSet;
 
 
 public class CheatingHangman {
-    //I decided not to make the game an object.
     private static int setSize = 0;
     private static int totalGuesses = 0;
     private static int correctGuesses = 0;
